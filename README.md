@@ -9,7 +9,7 @@ Prajna, the Discord bot powered by Google's Gemini AI that maintains conversatio
 - Responds to mentions in Discord channels
 - UTF-8 support for multilingual conversations
 
-## Technical Architecture
+## Technical description
 
 - **Discord Integration**: Built using the `discord.py` library for handling Discord events and messages
 - **GEN AI Integration**: Leverages Google's `gemini-2.0-flash` model via the Google Generative AI API
