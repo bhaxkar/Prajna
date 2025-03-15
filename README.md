@@ -1,5 +1,5 @@
 ﻿# Prajna (प्रज्ञा)
-Prajna, the Discord bot powered by Google's Gemini AI that maintains conversation context and provides intelligent responses.
+Prajna, the Discord bot powered by Google's Gemini AI that maintains conversation context and provides intelligent responses to mentions in Discord channels.
 
 ## Features
 
